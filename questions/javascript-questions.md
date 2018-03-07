@@ -1,4 +1,4 @@
-## JS Questions
+# JS Questions
 
 Answers to [Front-end Job Interview Questions - JS Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/questions/javascript-questions.md). Pull requests for suggestions and corrections are welcome!
 
@@ -1171,13 +1171,13 @@ On the server (Node.js), the common way has been to use CommonJS. Each file is t
 
 ES2015 defines a module syntax which aims to replace both AMD and CommonJS. This will eventually be supported in both browser and Node environments.
 
-[[↑] Back to top](#js-questions)
-
 ###### References
 
 * http://requirejs.org/docs/whyamd.html
 * https://nodejs.org/docs/latest/api/modules.html
 * http://2ality.com/2014/09/es6-modules-final.html
+
+[[↑] Back to top](#js-questions)
 
 ### Why you might want to create static class members?
 
